@@ -4,4 +4,4 @@
 .DS_Store
 node_modules
 
-assets
+assets/css/*
